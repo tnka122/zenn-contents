@@ -1,2 +1,2 @@
 [tools]
-nodejs = "18.16.0"
+node = "lts"
