@@ -19,7 +19,7 @@ published: false
 
 ## Everforest Dark
 
-![Everforest Dark](/images/d61b7fe2270307/themes/everforest_dark.png)
+![Everforest Dark](/images/tnka122-vscode-settings/themes/everforest_dark.png)
 
 https://marketplace.visualstudio.com/items?itemName=sainnhe.everforest
 
@@ -36,19 +36,19 @@ https://marketplace.visualstudio.com/items?itemName=sainnhe.everforest
 
 ## Gruvbox Material Dark
 
-![Gruvbox Material Dark](/images/d61b7fe2270307/themes/gruvbox_material_dark.png)
+![Gruvbox Material Dark](/images/tnka122-vscode-settings/themes/gruvbox_material_dark.png)
 
 https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material
 
 ## Nord
 
-![Nord](/images/d61b7fe2270307/themes/nord.png)
+![Nord](/images/tnka122-vscode-settings/themes/nord.png)
 
 https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code
 
 ## Catppuccin Frappé
 
-![Catppuccin Frappé](/images/d61b7fe2270307/themes/catppuccin_frappe.png)
+![Catppuccin Frappé](/images/tnka122-vscode-settings/themes/catppuccin_frappe.png)
 
 https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
 
@@ -56,7 +56,7 @@ https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
 
 ## Monaspace Radon + Zen Maru Gothic Medium
 
-![Monaspace Radon](/images/d61b7fe2270307/fonts/monaspace_radon.png)
+![Monaspace Radon](/images/tnka122-vscode-settings/fonts/monaspace_radon.png)
 
 https://github.com/githubnext/monaspace
 
@@ -72,7 +72,7 @@ Mediumと指定することで文字の太さがMonaspaceに近くなります�
 
 ## 0xProto
 
-![0xProto](/images/d61b7fe2270307/fonts/0xProto.png)
+![0xProto](/images/tnka122-vscode-settings/fonts/0xProto.png)
 
 https://github.com/0xType/0xProto
 
@@ -86,7 +86,7 @@ https://github.com/0xType/0xProto
 
 ## UDEV Gothic 35
 
-![UDEV Gothic 35](/images/d61b7fe2270307/fonts/udev_gothic_35.png)
+![UDEV Gothic 35](/images/tnka122-vscode-settings/fonts/udev_gothic_35.png)
 
 https://github.com/yuru7/udev-gothic
 
