@@ -3,7 +3,8 @@ title: "個人的VSCodeの設定"
 emoji: "📘"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [VSCode, テーマ, フォント, 拡張機能]
-published: false
+published: true
+published_at: 2023-12-31 20:00
 ---
 
 備忘録も兼ねてVSCodeの設定を書きました。  
